@@ -20,11 +20,9 @@ Repository Contents
   Loads saved feature data and performs classification using both ML and DL models.  
   Includes standard evaluation metrics (accuracy, confusion matrix, etc.).
 
-- **CNN_LSTM_CV**
-  Defines the **CNN+LSTM** model architecture.
+- **CNN_LSTM_CV**    Defines the **CNN+LSTM** model architecture.
 
-- **LSTM_GRU_CV**  
-  Defines the **LSTM+GRU** model architecture.
+- **LSTM_GRU_CV**    Defines the **LSTM+GRU** model architecture.
 
 
 
