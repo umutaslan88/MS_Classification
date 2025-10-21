@@ -12,7 +12,7 @@ The aim of this work is to classify EEG signals from individuals with Multiple S
 Repository Contents
 
 
-- **Main_Feature Extarction*  
+- **Main_Feature Extarction**  
   Reads EEG recordings, filters signals into frequency subbands, and computes Poincaré features (SD1, SD2, SD1/SD2 ratio, etc.).  
   The extracted feature matrix is saved in `.mat` format for later use.
 
@@ -20,7 +20,7 @@ Repository Contents
   Loads saved feature data and performs classification using both ML and DL models.  
   Includes standard evaluation metrics (accuracy, confusion matrix, etc.).
 
-- **CNN_LSTM_CV*  
+- **CNN_LSTM_CV**
   Defines the **CNN+LSTM** model architecture.
 
 - **LSTM_GRU_CV**  
